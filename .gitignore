@@ -1,0 +1,10 @@
+venv/
+.venv/
+venv3.11/
+.env
+.pytest_cache/
+.tox/
+.mypy_cache/
+.vscode/
+.idea/
+*.swp
