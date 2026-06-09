@@ -1,0 +1,11 @@
+venv/
+.venv/
+venv3.11/
+__pycache__/ 
+.env
+.pytest_cache/
+.tox/
+.mypy_cache/
+.vscode/
+.idea/
+*.swp
